@@ -1,4 +1,4 @@
-# Van App Studio
+# Ben App Studio
 
 - [Screenshot AI 개인정보 처리방침](screenshot-ai/privacy/)
 
