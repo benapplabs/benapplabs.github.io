@@ -1,6 +1,6 @@
 # Screenshot AI 개인정보 처리방침
 
-시행일: 2026-10-13 · 운영자: Van App Studio (이상현) · 문의: ben.applabs@gmail.com
+시행일: 2026-10-13 · 운영자: Ben App Studio (이상현) · 문의: ben.applabs@gmail.com
 
 Screenshot AI(이하 "앱")는 사용자가 고른 스크린샷을 **이 기기 안에서만** 저장하고 글자를 인식해 검색할 수 있게 해 주는 앱입니다. 앱은 사진과 사진 속 글자를 운영자 서버로 보내지 않습니다.
 
