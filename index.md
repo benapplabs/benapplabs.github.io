@@ -9,5 +9,6 @@
 - [구독료 탐정 개인정보 처리방침](subscription-detective/privacy/)
 - [반짝응원 개인정보 처리방침](cheer-board/privacy/)
 - [하루 3분 두뇌 퀴즈 개인정보 처리방침](brain-quiz/privacy/)
+- [물방울 합치기 개인정보 처리방침](drop-merge/privacy/)
 
 문의: ben.applabs@gmail.com
